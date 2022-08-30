@@ -1,0 +1,18 @@
+#!/bin/bash
+
+cp .bashrc ~/.bashrc
+source ~/.bashrc
+
+cp .vimrc ~/.vimrc
+
+cp .tmux.conf ~/.tmux.conf
+tmux source-file ~/.tmux.conf
+
+cp .Xresources ~/.Xresources
+xrdb -merge ~/.Xresources
+
+cp config ~/.config/i3/config
+
+
+
+
