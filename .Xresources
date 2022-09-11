@@ -12,7 +12,7 @@ xterm*scrollKey: true
 xterm*alwaysUseMods: true
 xterm*metaSendsEscape: true
 xterm*faceName: Monospace Regular;antialias: false
-xterm*faceSize: 13
+xterm*faceSize: 17
 XTerm*alternateScroll: true
 
 
